@@ -15,7 +15,7 @@
   "homepage": "https://bitbucket.org/yithemes/yith-wonder#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "dir-archiver": "^1.1.1",
+    "dir-archiver": "^2.1.0",
     "grunt": "^1.5.3",
     "grunt-autoprefixer": "^3.0.4",
     "grunt-contrib-clean": "^2.0.1",
